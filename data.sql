@@ -1,0 +1,126 @@
+insert into Users (UserID , Username , FirstName , LastName , DateOfBirth , Password , DateAdded ) values (1, 'sgarnham0', 'sviant0', 'jbackson0', '9/28/1998', 'nC3\*''`TL\M', '9/6/2020');
+insert into Users (UserID , Username , FirstName , LastName , DateOfBirth , Password , DateAdded ) values (2, 'flavell1', 'jglewe1', 'hhugk1', '4/27/2004', 'iT0>69*Dm3A', '5/10/2023');
+insert into Users (UserID , Username , FirstName , LastName , DateOfBirth , Password , DateAdded ) values (3, 'ttrorey2', 'bbottjer2', 'uoag2', '1/3/1999', 'yZ9=`?Q1FR6z}cs$', '5/5/2021');
+insert into Users (UserID , Username , FirstName , LastName , DateOfBirth , Password , DateAdded ) values (4, 'heassom3', 'whumpage3', 'moki3', '1/7/2006', 'kE9~yZ//', '10/16/2022');
+insert into Users (UserID , Username , FirstName , LastName , DateOfBirth , Password , DateAdded ) values (5, 'ahuyton4', 'etrangmar4', 'omellon4', '9/10/2003', 'oI9''fi%YhR', '9/26/2020');
+insert into Users (UserID , Username , FirstName , LastName , DateOfBirth , Password , DateAdded ) values (6, 'tvolonte5', 'bfaldo5', 'cdumpleton5', '10/30/2004', 'gK0"i2ElH`qX', '12/12/2022');
+insert into Users (UserID , Username , FirstName , LastName , DateOfBirth , Password , DateAdded ) values (7, 'kblankenship6', 'dstarmore6', 'msuddaby6', '3/10/2000', 'aF8&dQ@\=y', '4/15/2022');
+insert into Users (UserID , Username , FirstName , LastName , DateOfBirth , Password , DateAdded ) values (8, 'gloins7', 'tburniston7', 'sskingle7', '6/1/2004', 'fO3''C3t)QbU', '3/9/2021');
+insert into Users (UserID , Username , FirstName , LastName , DateOfBirth , Password , DateAdded ) values (9, 'selfleet8', 'klaffan8', 'nchamberlen8', '6/19/2004', 'zB1''Fht>~#', '9/19/2022');
+insert into Users (UserID , Username , FirstName , LastName , DateOfBirth , Password , DateAdded ) values (10, 'ebaus9', 'elemme9', 'fmorcom9', '3/2/2000', 'oL0?6.3BI\1''U.j', '9/6/2020');
+insert into Users (UserID , Username , FirstName , LastName , DateOfBirth , Password , DateAdded ) values (11, 'gboulgera', 'mcrowdera', 'mvardiea', '10/29/1998', 'fE7$HnTCmW84s=M?', '9/22/2022');
+insert into Users (UserID , Username , FirstName , LastName , DateOfBirth , Password , DateAdded ) values (12, 'dorganb', 'ldarkottb', 'pleasonb', '3/15/1998', 'eS0*$wmEi}CN5`Zx', '3/7/2020');
+insert into Users (UserID , Username , FirstName , LastName , DateOfBirth , Password , DateAdded ) values (13, 'cbettanayc', 'rlissandrinic', 'koverthrowc', '3/12/2002', 'nA4|6llO#\|>_4>(', '11/22/2022');
+insert into Users (UserID , Username , FirstName , LastName , DateOfBirth , Password , DateAdded ) values (14, 'dbergeond', 'jsentond', 'scarrabotd', '6/28/2005', 'hA2#M$*I*xne', '10/18/2021');
+insert into Users (UserID , Username , FirstName , LastName , DateOfBirth , Password , DateAdded ) values (15, 'cgilee', 'bchamberline', 'tdruste', '12/6/2006', 'xC7,bg?L@6L$O5O"', '11/21/2021');
+insert into Users (UserID , Username , FirstName , LastName , DateOfBirth , Password , DateAdded ) values (16, 'bbrydonf', 'tmaccombef', 'wclarkf', '7/5/2003', 'uP7@2#Z7VJ9MV', '9/18/2022');
+insert into Users (UserID , Username , FirstName , LastName , DateOfBirth , Password , DateAdded ) values (17, 'echelleyg', 'kkenderg', 'rjessopeg', '12/7/1996', 'dJ9%\~#`H/3j', '8/14/2022');
+insert into Users (UserID , Username , FirstName , LastName , DateOfBirth , Password , DateAdded ) values (18, 'stowleh', 'nferrarah', 'wkauscherh', '11/3/2000', 'sG8/S}8r4(''x(d', '2/6/2021');
+insert into Users (UserID , Username , FirstName , LastName , DateOfBirth , Password , DateAdded ) values (19, 'binglei', 'lwenti', 'ghillatti', '5/27/1997', 'oR2?6p">0202e3fU', '7/6/2022');
+insert into Users (UserID , Username , FirstName , LastName , DateOfBirth , Password , DateAdded ) values (20, 'orottgerj', 'goertzenj', 'dschukraftj', '3/1/2006', 'wR1{l+M$z', '11/21/2020');
+
+
+insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, DateAdded) values (1, 19, 3, true, '8/13/2002');
+insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, DateAdded) values (2, 14, 3, true, '6/9/2003');
+insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, DateAdded) values (3, 13, 9, true, '8/22/2012');
+insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, DateAdded) values (4, 7, 7, true, '5/30/2005');
+insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, DateAdded) values (5, 3, 7, true, '11/14/2015');
+insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, DateAdded) values (6, 8, 13, true, '5/13/2011');
+insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, DateAdded) values (7, 12, 3, false, '11/4/2001');
+insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, DateAdded) values (8, 16, 12, false, '6/23/2010');
+insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, DateAdded) values (9, 7, 5, false, '1/11/1996');
+insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, DateAdded) values (10, 3, 9, false, '10/16/1996');
+insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, DateAdded) values (11, 12, 12, true, '3/16/2007');
+insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, DateAdded) values (12, 12, 10, true, '9/28/1997');
+insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, DateAdded) values (13, 9, 10, false, '12/31/2013');
+insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, DateAdded) values (14, 16, 20, true, '5/27/2016');
+insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, DateAdded) values (15, 6, 7, true, '11/12/2004');
+insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, DateAdded) values (16, 15, 8, false, '2/2/2002');
+insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, DateAdded) values (17, 18, 1, false, '3/21/2001');
+insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, DateAdded) values (18, 17, 15, false, '11/26/2009');
+insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, DateAdded) values (19, 11, 17, true, '5/4/2005');
+insert into Friends (FriendID, FriendWhoAdded, FriendBeingAdded, isAccepted, DateAdded) values (20, 11, 6, true, '10/17/2013');
+
+
+insert into Groups (GroupID, GroupName, CreatedBy, DateAdded) values (1, 'benchmark', 20, '9/4/1998');
+insert into Groups (GroupID, GroupName, CreatedBy, DateAdded) values (2, 'contingency', 20, '9/1/2002');
+insert into Groups (GroupID, GroupName, CreatedBy, DateAdded) values (3, 'optimizing', 20, '7/5/2015');
+insert into Groups (GroupID, GroupName, CreatedBy, DateAdded) values (4, 'full-range', 20, '10/31/1996');
+insert into Groups (GroupID, GroupName, CreatedBy, DateAdded) values (5, 'human-resource', 15, '10/10/2013');
+
+
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (1, 'ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis', 3, false, true, 2, '7/28/2013');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (2, 'amet sem fusce consequat nulla nisl nunc nisl duis bibendum', 14, false, true, 3, '5/23/2013');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (3, 'nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in', 17, false, true, 3, '8/21/1997');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (4, 'eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas', 12, false, false, 3, '2/24/2004');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (5, 'montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem', 16, false, false, 4, '6/13/2003');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (6, 'phasellus in felis donec semper sapien a libero nam dui', 14, true, false, 1, '8/13/1996');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (7, 'mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci', 2, false, true, 5, '7/16/2012');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (8, 'sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum', 4, true, true, 1, '8/20/2010');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (9, 'vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti', 6, true, false, 4, '10/11/1997');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (10, 'interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis', 2, false, true, 4, '12/10/2016');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (11, 'aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi', 10, false, false, 4, '10/2/2003');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (12, 'pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse', 11, false, true, 4, '2/4/2016');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (13, 'luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum', 14, false, true, 1, '12/3/1999');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (14, 'augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit', 20, true, false, 2, '8/18/2006');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (15, 'ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam', 16, false, true, 1, '9/20/1995');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (16, 'in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate', 18, false, false, 4, '8/27/2014');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (17, 'ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin', 4, true, false, 2, '9/9/2006');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (18, 'mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa', 2, false, false, 1, '11/2/2011');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (19, 'nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac', 13, true, true, 5, '6/9/1997');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (20, 'diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus', 9, true, true, 1, '9/25/2003');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (21, 'cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus', 3, true, false, 3, '6/30/2001');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (22, 'vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices', 17, true, true, 1, '8/11/2004');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (23, 'aliquam non mauris morbi non lectus aliquam sit amet diam in magna', 17, false, true, 2, '9/5/2013');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (24, 'rutrum at lorem integer tincidunt ante vel ipsum praesent blandit', 6, true, true, 1, '10/6/2000');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (25, 'orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum', 15, false, true, 1, '12/26/2004');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (26, 'accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi', 13, true, false, 3, '9/27/2012');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (27, 'proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in', 20, true, true, 5, '9/19/2014');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (28, 'mauris non ligula pellentesque ultrices phasellus id sapien in sapien', 18, false, false, 3, '8/5/2004');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (29, 'nisl aenean lectus pellentesque eget nunc donec quis orci eget orci', 3, true, false, 5, '6/7/2002');
+insert into Posts (PostID , PostDescription , PostedBy,  IsPublic, IsOnlyForFriends , GroupID , DatePosted ) values (30, 'ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate', 16, true, false, 4, '4/3/2004');
+
+
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (1, 5, 11, true, '1/19/2010');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (2, 5, 14, true, '10/13/2006');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (3, 4, 11, true, '4/25/2008');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (4, 1, 8, false, '12/1/2005');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (5, 3, 14, true, '4/13/2001');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (6, 1, 16, true, '8/14/2001');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (7, 3, 6, false, '4/23/2010');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (8, 2, 1, true, '4/21/2000');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (9, 4, 6, true, '2/26/2012');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (10, 4, 11, false, '7/19/2015');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (11, 3, 10, false, '9/25/2012');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (12, 2, 4, false, '5/8/2010');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (13, 5, 15, true, '1/20/2015');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (14, 4, 9, false, '11/1/2016');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (15, 5, 7, false, '5/23/2001');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (16, 3, 13, true, '6/28/2011');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (17, 1, 19, false, '10/10/2011');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (18, 4, 11, false, '2/28/2002');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (19, 2, 4, false, '6/11/2011');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (20, 1, 4, false, '11/8/2007');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (21, 1, 13, false, '1/2/2009');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (22, 3, 9, true, '9/21/2013');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (23, 1, 11, true, '12/31/2002');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (24, 1, 20, false, '5/15/2003');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (25, 5, 1, false, '4/27/2013');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (26, 4, 2, false, '8/26/2016');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (27, 2, 20, true, '3/3/2005');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (28, 4, 18, false, '1/3/2010');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (29, 4, 6, true, '1/15/2014');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (30, 3, 7, true, '12/28/2005');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (31, 3, 5, false, '10/26/2003');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (32, 5, 15, false, '11/6/2014');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (33, 4, 14, false, '10/2/2014');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (34, 2, 3, true, '9/30/2000');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (35, 1, 9, true, '8/24/2003');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (36, 4, 11, true, '5/5/2010');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (37, 2, 4, false, '12/19/2014');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (38, 1, 4, false, '8/28/2003');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (39, 4, 16, false, '12/1/2015');
+insert into GroupMembershipRequests (GroupMemberShipRequestsID, GroupID, GroupMemberUserID, IsGroupMemberShipAccepted, DateAccepted) values (40, 5, 12, true, '8/9/2013');
+
+
+
